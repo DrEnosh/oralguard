@@ -33,4 +33,4 @@ Always consult a qualified dental professional for diagnosis.
 ## Author
 Dr. Enosh A. Paulson  
 BDS (RGUHS) | PGDMI Candidate, IIHMR Bangalore  
-GitHub: [enosh729-design/Oral_guard](https://github.com/enosh729-design/Oral_guard)
+GitHub: [DrEnosh/oralguard](https://github.com/DrEnosh/oralguard)

@@ -55,7 +55,7 @@ Not validated for clinical use.
 ## Author
 Dr. Enosh A. Paulson
 BDS (RGUHS) | PGDMI Candidate, IIHMR Bangalore
-GitHub: https://github.com/enosh729-design/Oral_guard
+GitHub: https://github.com/DrEnosh/oralguard
 HuggingFace: https://huggingface.co/Enosh729
 
 ## Citation
